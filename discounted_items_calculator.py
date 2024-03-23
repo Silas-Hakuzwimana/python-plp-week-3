@@ -17,3 +17,5 @@ elif discount >= 20:
     print(f"You're given a discount of {discount}%, you'll pay {finalPrice:.2f} {currency}")
 else:
     print(f"You're not discounted, you'll pay {price:.2f} {currency}")
+    
+    
